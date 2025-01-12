@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_alta"
+        android:title="@string/nav_alta" /> <!-- Titulo de cadena desde strings.xml -->
+    <item
+        android:id="@+id/nav_baja"
+        android:title="@string/nav_baja" /> <!-- Titulo de cadena desde strings.xml -->
+    <item
+        android:id="@+id/nav_modificacion"
+        android:title="@string/nav_modificacion" /> <!-- Titulo de cadena desde strings.xml -->
+</menu>

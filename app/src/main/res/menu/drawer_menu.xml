@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:title="Inicio"
+        android:icon="@drawable/ic_home" />
+    <item
+        android:id="@+id/nav_painter"
+        android:title="Pintor"
+        android:icon="@drawable/ic_painter" />
+    <item
+        android:id="@+id/nav_sculptor"
+        android:title="Escultor"
+        android:icon="@drawable/ic_sculptor" />
+    <item
+        android:id="@+id/nav_scientist"
+        android:title="Científico"
+        android:icon="@drawable/ic_scientist" />
+    <item
+        android:id="@+id/nav_inventor"
+        android:title="Inventor"
+        android:icon="@drawable/ic_inventor" />
+</menu>

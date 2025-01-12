@@ -1,0 +1,23 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <ImageView
+        android:id="@+id/image_paint"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/leonardo_paint" />
+
+    <TextView
+        android:id="@+id/text_paint_description"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/image_paint"
+        android:text="@string/sample_paint_description"
+        android:textAlignment="viewStart"
+        android:lineSpacingExtra="2dp"
+        android:padding="16dp"
+        android:justificationMode="inter_word"/>
+</RelativeLayout>

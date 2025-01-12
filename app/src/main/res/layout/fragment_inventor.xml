@@ -1,0 +1,22 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <ImageView
+        android:id="@+id/image_invent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/leonardo_invent" />
+
+    <TextView
+        android:id="@+id/text_invent_description"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/image_invent"
+        android:text="@string/sample_invent_description"
+        android:lineSpacingExtra="2dp"
+        android:padding="16dp"
+        android:justificationMode="inter_word"/>
+</RelativeLayout>

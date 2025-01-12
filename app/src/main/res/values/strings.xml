@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">DaVinciApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Leonardo Da Vinci</string>
+    <string name="nav_header_subtitle">Las obras más conocidas de DaVinci</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sample_invent_description">La máquina voladora de Leonardo da Vinci, conocida como el "Ornithopter," es uno de sus inventos más icónicos. Inspirada en el vuelo de las aves, esta máquina fue diseñada para permitir que un ser humano volara moviendo alas similares a las de un pájaro. El diseño consistía en un marco de madera con alas cubiertas de tela, que el piloto movería mediante un sistema de pedales y poleas. Aunque nunca se construyó ni se probó en vida de Leonardo, el Ornithopter es un ejemplo fascinante de su genio y de su obsesión por entender y replicar la naturaleza.</string>
+    <string name="sample_paint_description">La Mona Lisa, también conocida como La Gioconda, es una de las pinturas más famosas del mundo, creada por Leonardo da Vinci entre 1503 y 1506. Se trata de un retrato de una mujer con una expresión enigmática, caracterizada por su leve sonrisa y su mirada directa que parece seguir al espectador. La obra es célebre por su composición, el uso del sfumato (una técnica que difumina los bordes y las transiciones de color para crear un efecto suave y realista), y su representación detallada del paisaje de fondo. Actualmente, la Mona Lisa se encuentra en el Museo del Louvre en París y es considerada una obra maestra del Renacimiento.</string>
+    <string name="sample_science_description">El Hombre de Vitruvio es uno de los dibujos más icónicos de Leonardo da Vinci, realizado alrededor de 1490. Representa a un hombre desnudo en dos posiciones superpuestas con los brazos y las piernas extendidos, dentro de un círculo y un cuadrado. El dibujo está acompañado de notas basadas en los textos del arquitecto romano Vitruvio, quien describió las proporciones ideales del cuerpo humano.
+
+El Hombre de Vitruvio simboliza la combinación perfecta entre arte y ciencia, mostrando cómo el cuerpo humano se ajusta a proporciones matemáticas y geométricas. La obra refleja la idea renacentista de que el ser humano es el centro del universo y está en armonía con las leyes naturales.</string>
+    <string name="sample_sculpt_description">La Virgen con el Niño Riente es una pintura atribuida a Leonardo da Vinci y su taller, creada alrededor de 1465-1480. La obra muestra a la Virgen María sosteniendo a un Niño Jesús sonriente, una representación poco común de Jesús en su infancia riendo, lo que le da un aire de ternura y humanidad.
+
+La pintura se destaca por el uso del sfumato, que suaviza los contornos y da un efecto de realismo, y por la expresividad de las figuras. La escena captura un momento íntimo y lleno de afecto, típico de la sensibilidad renacentista hacia la representación de temas religiosos con un toque humanizado.</string>
+    <string name="text_home">Leonardo Da Vinci</string>
+    <string name="nav_painter">Pintor</string>
+    <string name="nav_sculptor">Escultor</string>
+    <string name="nav_scientist">Científico</string>
+    <string name="nav_inventor">Inventor</string>
+    <string name="nav_alta">Alta</string>
+    <string name="nav_baja">Baja</string>
+    <string name="nav_modificacion">Modificación</string>
+</resources>
